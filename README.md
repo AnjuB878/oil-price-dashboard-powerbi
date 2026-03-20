@@ -29,7 +29,7 @@ This project is an interactive Power BI dashboard analyzing global oil price tre
 
 ## 📷 Dashboard Preview
 ![Dashboard](
-Screenshot 2026-03-21 001841.png)
+dashboard.png)
 
 ---
 
